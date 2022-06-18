@@ -59,7 +59,7 @@ li {
 .container {
     margin-right: auto;
     margin-left: auto;
-    max-height: 960px; /*largura máxima*/
+    max-width: 960px; /*largura máxima*/
     padding-right: 10px; /*espaçamento direito*/
     padding-left: 10px; /*espaçamento esquerdo*/
     width: 100%; /*ocupar a página inteira*/
