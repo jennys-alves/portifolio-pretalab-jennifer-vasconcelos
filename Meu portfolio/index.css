@@ -73,7 +73,7 @@ li {
 }
 .nome-completo {
     font-size: 36px;
-    color:black;
+    color:#ff4dbc;;
     font-weight: 700; /*espessura*/
     height:  45px;
 }
@@ -127,4 +127,19 @@ li {
     font-size: 18px;
     color:#828282;
     font-weight: 500;
+}
+.rodape{
+    display: flex;
+    background-color: #724796;
+    flex-direction: column;
+    width: 100%; /*Largura*/
+    margin-bottom: 5px;
+    font-weight: 700;
+    Padding-left: 50px;
+    line-height: 5px;
+}
+.lista-rodape{
+    color: #FFF;
+    font-size: 32px;
+
 }
